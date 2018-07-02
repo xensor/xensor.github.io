@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for LeRoy S. McQuay</title>
+	<atom:link href="https://www.leroymcqy.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.leroymcqy.com</link>
+	<description>A perosnal blog of my life</description>
+	<lastBuildDate>Fri, 01 Jun 2018 07:49:39 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>Comment on Get Your Grove On With Divi by Azrael</title>
+		<link>https://www.leroymcqy.com/are-you-getting-the-most-out-of-your-elegant-themes/#comment-37</link>
+		<dc:creator><![CDATA[Azrael]]></dc:creator>
+		<pubDate>Fri, 01 Jun 2018 07:49:39 +0000</pubDate>
+		<guid isPermaLink="false">https://www.leroymcqy.gq/?p=116169#comment-37</guid>
+		<description><![CDATA[Nice article. I will have to say that I am impressed with the details.]]></description>
+		<content:encoded><![CDATA[<p>Nice article. I will have to say that I am impressed with the details.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Evil Ninjas Is Shutting Down by Azrael</title>
+		<link>https://www.leroymcqy.com/evil-ninjas-is-shutting-down/#comment-18</link>
+		<dc:creator><![CDATA[Azrael]]></dc:creator>
+		<pubDate>Sat, 19 May 2018 11:41:24 +0000</pubDate>
+		<guid isPermaLink="false">https://www.leroymcqy.gq/?p=116136#comment-18</guid>
+		<description><![CDATA[It is official that Evil Ninjas is shutting down. The founders are currently backing up the data and plans on closing down the server. They have no set date on when the server may open back to the public.]]></description>
+		<content:encoded><![CDATA[<p>It is official that Evil Ninjas is shutting down. The founders are currently backing up the data and plans on closing down the server. They have no set date on when the server may open back to the public.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Evil Ninjas Is Shutting Down by Azrael</title>
+		<link>https://www.leroymcqy.com/evil-ninjas-is-shutting-down/#comment-17</link>
+		<dc:creator><![CDATA[Azrael]]></dc:creator>
+		<pubDate>Wed, 09 May 2018 01:47:33 +0000</pubDate>
+		<guid isPermaLink="false">https://www.leroymcqy.gq/?p=116136#comment-17</guid>
+		<description><![CDATA[I will post any new updates that I have. As for now, this is what I have for the recent events on this subject. Evil Ninjas were created by 3 members.]]></description>
+		<content:encoded><![CDATA[<p>I will post any new updates that I have. As for now, this is what I have for the recent events on this subject. Evil Ninjas were created by 3 members.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
